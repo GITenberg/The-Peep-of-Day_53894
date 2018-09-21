@@ -1,0 +1,28 @@
+_repo: The-Peep-of-Day_53894
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Mortimer, Favell Lee
+    alias: Mortimer, Mrs. Favell Lee (Bevan)
+    birthdate: 1802
+    deathdate: 1878
+    gutenberg_agent_id: '4776'
+    url: http://www.gutenberg.org/2009/agents/4776
+    wikipedia: http://en.wikipedia.org/wiki/Favell_Lee_Mortimer
+description: ''
+gutenberg_issued: '2017-01-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53894'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christian life -- Juvenile literature'
+- !lcsh 'Bible stories, English -- Juvenile literature'
+- !lcsh 'Christian education -- Textbooks for children'
+- !lcc 'BV'
+- GITenberg
+title: The Peep of Day
+url: http://www.gutenberg.org/ebooks/53894
